@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Darcula</string>
+    <string>Monokai Soda</string>
     <key>settings</key>
     <array>
         <dict>
@@ -37,7 +37,8 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#75715E</string>
+                <string>#808080</string>
+                <!-- 75715E -->
             </dict>
         </dict>
         <dict>
@@ -122,6 +123,7 @@
         <dict>
             <key>name</key>
             <string>Storage type</string>
+            <!-- arbitrary class name -->
             <key>scope</key>
             <string>storage.type</string>
             <key>settings</key>
@@ -129,7 +131,7 @@
                 <key>fontStyle</key>
                 <string>italic</string>
                 <key>foreground</key>
-                <string>#CC7832</string>
+                <string>#A9B7C6</string>
             </dict>
         </dict>
         <dict>
