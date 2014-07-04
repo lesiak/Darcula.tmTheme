@@ -83,6 +83,8 @@
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00474747" BoldFont="No"/>
 							<Item Name="Breakpoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
 							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0055D1D3" BoldFont="No"/>
+							<Item Name="CurrentLineActiveFormat" Foreground="0x00282828" Background="0x00323232" BoldFont="No"/>
+
 						</Items>
 					</Category>
 				</Categories>
